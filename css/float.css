@@ -1,0 +1,26 @@
+.elementExample {
+    width: 200px;
+    height: 200px;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.elementExample_first {
+    background-color: #8e44ad;
+    float: right;
+}
+
+.elementExample_last {
+    background-color: #c0392b;
+    float: right;
+}
+
+p {
+    clear: both;
+}
+
+article {
+    background-color: violet;
+    overflow: hidden;
+}
